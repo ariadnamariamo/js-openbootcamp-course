@@ -1,0 +1,16 @@
+{
+  "name": "first-exercise",
+  "version": "1.0.0",
+  "description": "first exercise of node with openBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "greetings":"node greetings.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firstExercise"
+  ],
+  "author": "Ariadna Mora",
+  "license": "ISC"
+}
