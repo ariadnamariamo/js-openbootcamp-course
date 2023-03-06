@@ -18,5 +18,5 @@ const book = {
         title:"¿Por qué a mí?",
         author:"Valéria Piassa Polizzi",
         date: new Date('1997'),
-        url:"https://www.amazon.com/-/es/Val%C3%A9ria-Piassa-Polizzi/dp/9681909208",
+        url:"https://www.amazon.com/-/es/Val%C3%A9ria-Piassa-Polizzi/dp/9681909208", 
 }
